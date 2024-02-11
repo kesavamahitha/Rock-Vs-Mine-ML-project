@@ -41,18 +41,6 @@ This project focuses on classifying sonar data into two categories: Rock and Min
     python rock_mine.py
     ```
 
-## Results
 
-Include any relevant results or performance metrics obtained from the classification model.
 
-## Additional Information
 
-Add any additional details or considerations that might be important for someone reviewing or using your project.
-
-## Contributing
-
-If you wish to contribute to this project, please create a new branch and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
